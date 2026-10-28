@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793177997186,
+  "updatedAt": 1793178045074,
   "devices": {
     "c6d12586-c680-4cab-bcbc-a7c2f8e06021": {
-      "lastSeen": 1793177996745
+      "lastSeen": 1793178044622
     }
   },
   "problems": {},
@@ -17,7 +17,7 @@
   "identity": {
     "installId": "0e368796-9d96-4b23-aff3-ebd837541ad5",
     "at": 1793176846976,
-    "name": null,
-    "nameAt": 0
+    "name": "Piyush Joshi",
+    "nameAt": 1793177997371
   }
 }
