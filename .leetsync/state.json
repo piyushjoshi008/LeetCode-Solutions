@@ -1,18 +1,42 @@
 {
   "v": 1,
-  "updatedAt": 1793178185045,
+  "updatedAt": 1793178347815,
   "devices": {
     "c6d12586-c680-4cab-bcbc-a7c2f8e06021": {
-      "lastSeen": 1793178184566
+      "lastSeen": 1793178346974
     }
   },
-  "problems": {},
-  "achievements": {},
+  "problems": {
+    "917": {
+      "attempts": 1,
+      "bestMemory": "42.4 MB (Beats 94%)",
+      "bestRuntime": "1 ms (Beats 27%)",
+      "date": "2026-10-28",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-28",
+      "folderName": "0917-Reverse-Only-Letters",
+      "language": "Java",
+      "number": 917,
+      "slug": "reverse-only-letters",
+      "solutionCount": 1,
+      "tags": [
+        "Two Pointers",
+        "String"
+      ],
+      "title": "Reverse Only Letters",
+      "at": 1793178346974
+    }
+  },
+  "achievements": {
+    "first_blood": 1793178200052
+  },
   "sheets": {},
-  "days": [],
+  "days": [
+    "2026-10-28"
+  ],
   "bests": {
-    "longestStreak": 0,
-    "pushes": 0
+    "longestStreak": 1,
+    "pushes": 1
   },
   "identity": {
     "installId": "0e368796-9d96-4b23-aff3-ebd837541ad5",
