@@ -1,6 +1,6 @@
 # 📝 672. Bulb Switcher II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/bulb-switcher-ii)
+🔗 [Problem Link](https://leetcode.com/problems/bulb-switcher-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Math, Bit Manipulation, Depth-First Search, Breadth-First Search
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 42 MB
 
 ---
 
