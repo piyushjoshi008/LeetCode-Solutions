@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793212247634,
+  "updatedAt": 1793212547493,
   "devices": {
     "c6d12586-c680-4cab-bcbc-a7c2f8e06021": {
-      "lastSeen": 1793212247038
+      "lastSeen": 1793212547034
     }
   },
   "problems": {
@@ -26,7 +26,7 @@
         "Counting"
       ],
       "title": "Most Common Word",
-      "at": 1793212247038
+      "at": 1793212547034
     },
     "917": {
       "attempts": 1,
@@ -45,11 +45,12 @@
         "String"
       ],
       "title": "Reverse Only Letters",
-      "at": 1793212247038
+      "at": 1793212547034
     }
   },
   "achievements": {
-    "first_blood": 1793178200052
+    "first_blood": 1793178200052,
+    "night_owl": 1793212249062
   },
   "sheets": {},
   "days": [
