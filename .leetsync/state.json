@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793275847282,
+  "updatedAt": 1793276147583,
   "devices": {
     "c6d12586-c680-4cab-bcbc-a7c2f8e06021": {
-      "lastSeen": 1793275846931
+      "lastSeen": 1793276147117
     }
   },
   "problems": {
@@ -26,7 +26,7 @@
         "Counting"
       ],
       "title": "Most Common Word",
-      "at": 1793275846931
+      "at": 1793276147117
     },
     "917": {
       "attempts": 1,
@@ -45,16 +45,26 @@
         "String"
       ],
       "title": "Reverse Only Letters",
-      "at": 1793275846931
+      "at": 1793276147117
     },
     "2951": {
+      "attempts": 1,
+      "bestMemory": "44.9 MB (Beats 90%)",
+      "bestRuntime": "1 ms (Beats 99%)",
       "date": "2026-10-29",
       "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-29",
       "folderName": "2951-Find-the-Peaks",
       "language": "Java",
       "number": 2951,
+      "slug": "find-the-peaks",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Enumeration"
+      ],
       "title": "Find the Peaks",
-      "at": 1793275846931
+      "at": 1793276147117
     }
   },
   "achievements": {
@@ -63,11 +73,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-10-28"
+    "2026-10-28",
+    "2026-10-29"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 2
+    "longestStreak": 2,
+    "pushes": 3
   },
   "identity": {
     "installId": "0e368796-9d96-4b23-aff3-ebd837541ad5",
