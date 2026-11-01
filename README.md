@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0229-majority-element-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [1051-height-checker](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 ## Hash Table
@@ -33,6 +34,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0567-permutation-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sliding Window
@@ -47,4 +49,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
