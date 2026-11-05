@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0567-permutation-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -61,4 +63,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 <!---LeetCode Topics End-->
