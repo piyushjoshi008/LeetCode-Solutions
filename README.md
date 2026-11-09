@@ -9,6 +9,7 @@
 | [0229-majority-element-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1051-height-checker](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@
 | [0567-permutation-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +76,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3945-digit-frequency-score](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
