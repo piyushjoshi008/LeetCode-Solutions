@@ -69,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0400-nth-digit](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0400-nth-digit/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0400-nth-digit](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0400-nth-digit/) | Medium |
 | [3945-digit-frequency-score](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
