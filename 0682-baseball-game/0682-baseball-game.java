@@ -1,23 +1,24 @@
 class Solution {
     public int calPoints(String[] operations) {
-        int result[]=new int[operations.length];
-        int i=-1;
-        for(String ch : operations){
-            if(ch.equals("D")){
-                int temp=result[i]*2;
-                result[++i]=temp;
-            }else if(ch.equals("+")){
-                int temp=result[i]+result[i-1];
-                result[++i]=temp;
-            }else if(ch.equals("C")){
-                i--;
-            }else{
-                result[++i]=Integer.parseInt(ch);
+        Stack<Integer> stack = new Stack<>();
+        for (String ch : operations) {
+            if (ch.equals("D")) {
+                int temp = stack.peek() * 2;
+                stack.push(temp);
+            } else if (ch.equals("+")) {
+                int top = stack.pop();
+                int newTop = stack.peek();
+                stack.push(top);
+                stack.push(top + newTop);
+            } else if (ch.equals("C")) {
+                stack.pop();
+            } else {
+                stack.push(Integer.parseInt(ch));
             }
         }
-        int sum=0;
-        for(int j=0;j<=i;j++){
-            sum+=result[j];
+        int sum = 0;
+        for (int digit : stack) {
+            sum += digit;
         }
         return sum;
     }
