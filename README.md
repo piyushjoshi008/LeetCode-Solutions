@@ -47,6 +47,7 @@
 | [0014-longest-common-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0290-word-pattern](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0567-permutation-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -90,4 +91,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
