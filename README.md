@@ -51,6 +51,7 @@
 | [0844-backspace-string-compare](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
@@ -88,6 +89,7 @@
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [4020-elevator-requests-i](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 ## Stack
@@ -96,4 +98,5 @@
 | [0682-baseball-game](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
