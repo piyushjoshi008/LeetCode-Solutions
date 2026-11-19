@@ -10,6 +10,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0682-baseball-game](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1051-height-checker](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [4020-elevator-requests-i](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 ## Hash Table
@@ -26,6 +27,7 @@
 | [0229-majority-element-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1051-height-checker](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
