@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0229-majority-element-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0496-next-greater-element-i](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1051-height-checker](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
@@ -19,6 +20,7 @@
 | [0229-majority-element-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0496-next-greater-element-i](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [3945-digit-frequency-score](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Sorting
@@ -100,6 +102,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -110,4 +113,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
