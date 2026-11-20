@@ -59,6 +59,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -112,11 +113,13 @@
 | [1021-remove-outermost-parentheses](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
