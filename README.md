@@ -92,6 +92,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0223-rectangle-area](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0400-nth-digit](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0400-nth-digit/) | Medium |
 | [3945-digit-frequency-score](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Simulation
@@ -126,4 +127,8 @@
 | [0496-next-greater-element-i](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0223-rectangle-area/) | Medium |
 <!---LeetCode Topics End-->
