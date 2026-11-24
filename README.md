@@ -14,6 +14,7 @@
 | [0739-daily-temperatures](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1051-height-checker](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [4020-elevator-requests-i](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 ## Hash Table
@@ -67,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0400-nth-digit](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0400-nth-digit/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3945-digit-frequency-score](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -131,4 +134,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0223-rectangle-area/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
