@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0045-jump-game-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -89,6 +90,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Math
@@ -142,4 +144,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0045-jump-game-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 <!---LeetCode Topics End-->
