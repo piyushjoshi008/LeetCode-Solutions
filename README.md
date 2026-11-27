@@ -55,6 +55,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0290-word-pattern](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0567-permutation-in-string](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -91,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Math
@@ -111,6 +113,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
@@ -129,6 +132,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/piyushjoshi008/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
